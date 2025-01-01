@@ -1,6 +1,6 @@
 # Laravel Feature Blueprint  
 
-**FeatureBlueprint** is a Laravel package designed to automate the creation of all necessary files and components required for a new feature. It streamlines the development process, enabling developers to quickly scaffold controllers, models, migrations, tests, and more with a single command.  
+**Laravel Feature Blueprint** is a Laravel package designed to automate the creation of all necessary files and components required for a new feature. It streamlines the development process, enabling developers to quickly scaffold controllers, models, migrations, tests, and more with a single command.  
 
 ## Features  
 - Automatically generates all essential files for a Laravel feature:
