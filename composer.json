@@ -1,0 +1,16 @@
+{
+    "name": "olatunji/laravel-feature-blueprint",
+    "description": "Laravel package designed to automate the creation of all necessary files and components required for a new feature.",
+    "autoload": {
+        "psr-4": {
+            "Olatunji\\LaravelFeatureBlueprint\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David",
+            "email": "olayemi289@gmail.com"
+        }
+    ],
+    "require": {}
+}
